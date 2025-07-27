@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.set_page_config(page_title="Van Vu | Portfolio", layout="wide")
-st.image("images/headshot.jpg", width=150) 
+st.image("images/headshot.JPG", width=150) 
 st.title("Van Vu - Portfolio")
 
 # tabs = st.tabs(["👤 About Me", "📊 Projects", "📄 Resume", "📬 Contact"])
