@@ -3,7 +3,7 @@ import pandas as pd
 import altair as alt
 
 # Load data
-df = pd.read_csv('Data/forecast_df_demo.csv')
+df = pd.read_csv('data/forecast_df_demo.csv')
 df['Date'] = pd.to_datetime(df['Date'])
 
 # Page title and intro
