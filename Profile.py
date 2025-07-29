@@ -70,7 +70,7 @@ reducing retrieval time and supporting on-time assembly
 
 ### 📫 Let’s Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/van-vu1/)
-- 📄 [Download My Resume](pdf/Van_Vu_Resume.pdf)
+- 📄 [Download My Resume](https://github.com/vanvu-1997/profile/blob/main/pdf/Van_Vu_Resume.pdf)
 
 """)
 
