@@ -16,8 +16,8 @@ Currently, I’m pursuing a **Master of Science in Analytics** at **Georgia Tech
 ---
 
 ### 🎯 My Focus Areas:
-- Transforming data into insights using **Python**, **SQL**, and **Tableau**
-- Driving automation and dashboarding with **cloud-based solutions**
+- Transforming data into insights using Python, SQL, and Tableau
+- Driving automation and dashboarding with cloud-based solutions
 - Exploring **predictive models** and **data storytelling** for business impact
 
 ---
